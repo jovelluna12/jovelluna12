@@ -15,3 +15,10 @@ Elective: City Health Office Laboratory Information System <br>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loves Movies and Gaming
 
+
+<h3 align="center"> 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/jovelluna12/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="My | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/jc_boy6970/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="My | Instagram" width="21px"/></a>
+
+</br>
