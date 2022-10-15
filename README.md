@@ -13,7 +13,7 @@ Elective: City Health Office Laboratory Information System <br>
 - 💬 Ask me about Laravel
 - 📫 How to reach me: jovelluna7@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Loves Movies and Gaming
+- ⚡ Fun fact: Loves Movies and Gaming, A Bit Introverted
 
 
 <h3 align="center"> 🤝 Connect with me:
