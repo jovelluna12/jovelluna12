@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im jovelluna12
+Im jovelluna12, A 4th Year BSIT Student
 
 Here are some facts about me: 
 
