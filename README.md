@@ -4,7 +4,6 @@ Im jovelluna12, A Web Developer
 
 Here are some facts about me: 
 
-- 🔭 I’m currently working on <br><br>
 - 👯 I’m looking to collaborate on any Full Stack Web App Development Projects
 
 - 💬 Ask me about Laravel, WordPress and anything Related to Starting and Managing Projects
