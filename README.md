@@ -6,7 +6,7 @@ Here are some facts about me:
 
 - 👯 I’m looking to collaborate on any Full Stack Web App Development Projects
 
-- 💬 Ask me about Laravel, WordPress and anything Related to Starting and Managing Projects
+- 💬 Ask me about Laravel and WordPress theme and plugin development
 - 📫 How to reach me: jchrister718@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loves Movies and Gaming, A Bit Introverted
