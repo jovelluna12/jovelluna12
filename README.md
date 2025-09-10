@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-Im jovelluna12, A Web Developer
+Im Jovel, A Web Developer
 
 Here are some facts about me: 
 
 - 👯 I’m looking to collaborate on any Full Stack Web App Development Projects
 
 - 💬 Ask me about Laravel and WordPress theme and plugin development
-- 📫 How to reach me: jchrister718@gmail.com 
+- 📫 How to reach me: jovelchristerluna.professional@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loves Movies and Gaming, A Bit Introverted
 
